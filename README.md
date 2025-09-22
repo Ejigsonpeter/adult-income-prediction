@@ -1,4 +1,4 @@
-# Adult Income Prediction Model
+# Adult Income Prediction Model Using Azure
 
 This repository contains the implementation of a **Random Forest Classifier** model to predict income levels (`<=50K` or `>50K`) using the **UCI Adult Income dataset**. The project is developed and deployed with **Azure Machine Learning (AML)**.  
 
